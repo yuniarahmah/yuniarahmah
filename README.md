@@ -12,6 +12,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+everyone!+👋;+I'm+Yuniah+Rahmah+😉;" />
 </h1>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuniarahmah&row=1&no-frame=true&margin-w=15&theme=discord" alt="Keychan2725" /></a></p>
+
 
 <h3 align="center">A passionate software developer from Indonesia </h3><p align="left">
 <h4 align="left">:man_technologist: About Me :</h4> 
@@ -30,13 +32,6 @@
 
 <div align="left">
   <br/><br/><br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
